@@ -11,5 +11,5 @@ Origin
 ------
 
 Based on https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/OpenCL-v1p0_by-yash-eng.xml
-Slightly improved to conform atleast OpenCL C 1.2, some stuff from later versions also gets highlighted.
 
+Slightly improved to conform atleast OpenCL C 1.2, some stuff from later OpenCL C versions also gets highlighted.
